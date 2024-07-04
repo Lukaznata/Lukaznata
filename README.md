@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Lucas, front-end developer by passion.
+### 👋 Hi! I'm Lucas, front-end developer.
 
 <hr>
 
