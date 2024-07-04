@@ -9,8 +9,8 @@
 ### 👨‍💻 About Me
 
 <hr>
-<li>🧑‍💻 I discovered the TI area in 2022, as I was trying to make a web site. In that moment that I start to see codes behind the images, I knew that was what I wanted to do in my life. Since that day I've been studying and improving my knowledge.</li>
-<li>💼 Currently I'm in the third period of college, studying science of computer science. doing projects while looking for a job in this area.</li>
+<li>🧑‍💻 I discovered the TI area in 2022, as I was trying to make a web site. In that moment that I start to see codes behind the images, I knew that was what I wanted to do in my life. Since that day I've been studying and improving my skills</li>
+<li>💼 Currently I'm in the third period of college, studying science of computer science.</li>
 
 <br>
 
