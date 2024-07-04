@@ -2,7 +2,7 @@
 
 <hr>
 
-[![Linkedin](https://img.shields.io/badge/Lucas_Nathan_Tonin-0077B5?&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-nathan-tonin-7a953120b/)
+[![Linkedin](https://img.shields.io/badge/Lucas_Nathan_Tonin-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nathan-tonin-7a953120b)
 [![Portifólio](https://img.shields.io/badge/Portfolio-000000?&logo=About.me&logoColor=white)](/)
 [![GMAIL](https://img.shields.io/badge/lucas18tonin@gmail.com-D14836?&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1720058378)
 
