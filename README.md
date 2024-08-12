@@ -29,7 +29,7 @@
 <img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?color=525252&logo=css3&logoColor=blue'>
 <img alt='Figma' src='https://img.shields.io/badge/Figma-F24E1E?color=525252&logo=figma&logoColor=orange'>
 <img alt='Jest' src='https://img.shields.io/badge/Jest-323330?color=525252&logo=Jest&logoColor=red'>
-<img alt='Tailwind' src='https://img.shields.io/badge/Tailwind-323330?color=525252&logo=Tailwind&logoColor=blue'>
+<img alt='Tailwind' src='https://img.shields.io/badge/Tailwind-323330?color=blue'>
 
 
 #### ⚙️ Back-end and databases:
