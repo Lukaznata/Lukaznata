@@ -26,8 +26,11 @@
 <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?color=525252&logo=javascript&logoColor=yellow'>
 <img alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?color=525252&logo=html5&logoColor=orange'>
 <img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?color=525252&logo=css3&logoColor=blue'>
+<img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?color=525252&logo=css3&logoColor=blue'>
 <img alt='Figma' src='https://img.shields.io/badge/Figma-F24E1E?color=525252&logo=figma&logoColor=orange'>
 <img alt='Jest' src='https://img.shields.io/badge/Jest-323330?color=525252&logo=Jest&logoColor=red'>
+<img alt='Tailwind' src='https://img.shields.io/badge/Tailwind-323330?color=525252&logo=Jest&logoColor=blue'>
+
 
 #### ⚙️ Back-end and databases:
 
