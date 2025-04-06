@@ -4,13 +4,6 @@ My name is Lucas Nathan, and my journey in tech started in a pretty interesting 
 
 Today, I focus on both **front-end and back-end development**, working to build complete, well-structured applications. I'm also diving into areas like **application monitoring**, best practices, and performance optimization.
 
-## 🚀 Technologies and Tools I Use
-
-- **Front-end**: React.js, Next.js, TypeScript, HTML, CSS, Styled-Components, Tailwind
-- **Back-end**: Node.js, Express, Sequelize, Mongoose, JWT, REST APIs
-- **Databases**: MySQL, MongoDB
-- **Others**: Docker, GitHub Actions, AWS (basic), Postman, Figma, Jest, React Testing Library
-
 ## 💡 What Drives Me
 
 I love turning ideas into real solutions, tackling technical challenges, and constantly learning. Whether it’s debugging, refactoring code, or improving performance — I enjoy the process because every detail matters when it comes to building great software.
