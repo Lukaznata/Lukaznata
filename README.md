@@ -1,18 +1,28 @@
-### 👋 Hi! I'm Lucas, front-end developer.
+# 👋 Hi there! Welcome to my GitHub
 
-<hr>
+My name is [Your Name], and my journey in tech started in a pretty interesting way — I tried to build a website for my brother. That experience sparked something in me, and I realized I’ve always enjoyed working with computers and solving problems. That’s when I knew I had found my path.
 
-[![Linkedin](https://img.shields.io/badge/Lucas_Nathan_Tonin-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nathan-tonin-7a953120b)
-[![Portifólio](https://img.shields.io/badge/Portfolio-000000?&logo=About.me&logoColor=white)](/)
-[![GMAIL](https://img.shields.io/badge/lucas18tonin@gmail.com-D14836?&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1720058378)
+Today, I focus on both **front-end and back-end development**, working to build complete, well-structured applications. I'm also diving into areas like **application monitoring**, best practices, and performance optimization.
 
-### 👨‍💻 About Me
+## 🚀 Technologies and Tools I Use
 
-<hr>
-<li>🧑‍💻 I discovered the TI area in 2022, as I was trying to make a web site. In that moment that I start to see codes behind the images, I knew that was what I wanted to do in my life. Since that day I've been studying and improving my skills</li>
-<li>💼 Currently I'm in the third period of college, studying science of computer science.</li>
+- **Front-end**: React.js, Next.js, TypeScript, HTML, CSS, Styled-Components, Tailwind
+- **Back-end**: Node.js, Express, Sequelize, Mongoose, JWT, REST APIs
+- **Databases**: MySQL, MongoDB
+- **Others**: Docker, GitHub Actions, AWS (basic), Postman, Figma, Jest, React Testing Library
 
-<br>
+## 💡 What Drives Me
+
+I love turning ideas into real solutions, tackling technical challenges, and constantly learning. Whether it’s debugging, refactoring code, or improving performance — I enjoy the process because every detail matters when it comes to building great software.
+
+## 📫 Let’s Connect!
+
+If you’d like to chat, collaborate on a project, or just talk about tech, feel free to reach out!
+
+---
+
+✨ Thanks for stopping by!
+
 
 ### 🛠️ Tech Stacks
 
