@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my GitHub
 
-My name is [Your Name], and my journey in tech started in a pretty interesting way — I tried to build a website for my brother. That experience sparked something in me, and I realized I’ve always enjoyed working with computers and solving problems. That’s when I knew I had found my path.
+My name is Lucas Nathan, and my journey in tech started in a pretty interesting way — I tried to build a website for my brother. That experience sparked something in me, and I realized I’ve always enjoyed working with computers and solving problems. That’s when I knew I had found my path.
 
 Today, I focus on both **front-end and back-end development**, working to build complete, well-structured applications. I'm also diving into areas like **application monitoring**, best practices, and performance optimization.
 
